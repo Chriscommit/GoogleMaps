@@ -1,0 +1,35 @@
+#map 
+{
+    height: 500px;
+}
+
+      /* Optional: Makes the sample page fill the window. */
+ body
+  {
+    margin:0 auto;
+    text-align: center;
+  }
+  form
+  {
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin:  0 auto;
+    background-color: white;
+    width: 100%;
+    border: 1px solid black;
+   
+  }
+  select
+  {
+    background-color: white;
+    color: darkgreen;
+    width: 70%;
+    padding: 5px;
+    font-size: 1.2em;
+    border: 1px solid darkgreen;
+    border-radius: 5px;
+  }
+  option
+  {
+    text-align: center;
+  }
